@@ -1,2 +1,2 @@
 # AI
-Perceptron training on alzhaimer data.
+Perceptron training on alzhaimer data...
